@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gfx:home|Door43 (gfx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gfx|d43-gfx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gfx/archive/master.zip|d43-gfx.zip]]
+
+**Recent Changes**
+{{changes>ns = gfx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gfx|Ethnologue data]]
+
